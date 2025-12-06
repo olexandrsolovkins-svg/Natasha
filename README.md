@@ -1,4 +1,5 @@
-# Natasha Telegram Bot
+# Natasha Telegram Bos
+
 
 ## Installation
 pip install -r requirements.txt
